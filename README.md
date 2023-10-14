@@ -11,7 +11,7 @@ AtliQ Hardware, a company specializing in networking, storage, and notepad solut
 
 📊 Finance Analysis: 📊
 
-**Project Objective:** Create Profit & Loss Report 💰
+**Project Objective & Overview:** Create Profit & Loss Report 💰
 - This report provided an overview of profits and losses over time periods such as years, months (including quarters), and markets.
 - Purpose of Finance Analytics: Assessing how well we're doing financially, helping us make better decisions, and keeping everyone in the loop.
 - Importance of Analyzing Finance Data: Helping us compare our performance to others in the industry and to our past results. It's the basis for setting budgets and making predictions.
@@ -19,21 +19,13 @@ AtliQ Hardware, a company specializing in networking, storage, and notepad solut
 
 📈 Sales Analysis:
 
-**Project Objective:** The sales analysis component of our project involved generating reports that provide valuable insights into customer and market performance.
+**Project Objective & Overview:** The sales analysis component of our project involved generating reports that provide valuable insights into customer and market performance.
 
 💼 Customer Performance Report:
 - This report offered a detailed perspective on net sales performance for our organization's customers from 2019 to 2021. It specifically focused on comparing the years 2020 and 2021.
-
 🌍 Marketing Performance Report:
 - This report focuses on the market and provides an overview of the sales performance, as well as the percentage by which the organization fell short of their targets for 2021.
-
-📊 Other Sales Reports:
-- 10 Performing Product Report
-- Division-wise Net Sales Performance Report
-- Bottom 5 Products Report
-- New Products Report
-- Top 5 Countries by Net Sales Report
-- Subzone by Gross Margin Report
+📊 Other Sales Reports:- 10 Performing Product Report,Division-wise Net Sales Performance Report, Bottom 5 Products Report, New Products Report.
 
 - Purpose of Sales Analytics: Giving businesses the reports to keep an eye on and assess their sales activities and how well they're doing.
 - Importance of Analyzing Sales Data: Spotting sales trends and keeping tabs on important insights.
