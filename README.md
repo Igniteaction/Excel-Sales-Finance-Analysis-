@@ -23,8 +23,10 @@ AtliQ Hardware, a company specializing in networking, storage, and notepad solut
 
 💼 Customer Performance Report:
 - This report offered a detailed perspective on net sales performance for our organization's customers from 2019 to 2021. It specifically focused on comparing the years 2020 and 2021.
+
 🌍 Marketing Performance Report:
 - This report focuses on the market and provides an overview of the sales performance, as well as the percentage by which the organization fell short of their targets for 2021.
+
 📊 Other Sales Reports:10 Performing Product Report,Division-wise Net Sales Performance Report, Bottom 5 Products Report, New Products Report.
 
 - Purpose of Sales Analytics: Giving businesses the reports to keep an eye on and assess their sales activities and how well they're doing.
