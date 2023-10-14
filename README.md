@@ -3,13 +3,13 @@
 
 🚀 I'm excited to share my experience, working on the AtliQ Finance and Sales Analysis Report as part of my assignment at CodeBasics 🚀
 
-🔍 Overview:
+
 
 **Project Title:** AtliQ Finance and Sales Analysis
 
 AtliQ Hardware, a company specializing in networking, storage, and notepad solutions, provided us with CSV files containing data on customers, markets, products, sales transactions, and targets.
 
-📊 Finance Analysis: 📊
+#📊 Finance Analysis: 📊
 
 **Project Objective & Overview:** Create Profit & Loss Report 💰
 - This report provided an overview of profits and losses over time periods such as years, months (including quarters), and markets.
@@ -17,7 +17,7 @@ AtliQ Hardware, a company specializing in networking, storage, and notepad solut
 - Importance of Analyzing Finance Data: Helping us compare our performance to others in the industry and to our past results. It's the basis for setting budgets and making predictions.
 - Role of Report: Making sure the financial plans match up with our big-picture goals and giving the organization a solid sense of confidence in its financial future.
 
-📈 Sales Analysis:
+#📈 Sales Analysis:
 
 **Project Objective & Overview:** The sales analysis component of our project involved generating reports that provide valuable insights into customer and market performance.
 
